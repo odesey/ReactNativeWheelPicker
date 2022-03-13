@@ -5,7 +5,7 @@
   "main": "index.tsx",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kalontech/ReactNativeWheelPicker.git"
+    "url": "git+https://github.com:odesey/ReactNativeWheelPicker.git"
   },
   "keywords": [
     "react-component",
